@@ -1,0 +1,10 @@
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\SupermarketSystem\bin\Debug\SupermarketSystem.exe.config
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\SupermarketSystem\bin\Debug\SupermarketSystem.exe
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\SupermarketSystem\bin\Debug\SupermarketSystem.pdb
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\SupermarketSystem\obj\Debug\SupermarketSystem.csprojResolveAssemblyReference.cache
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\SupermarketSystem\obj\Debug\SupermarketSystem.exe
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\SupermarketSystem\obj\Debug\SupermarketSystem.pdb
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\SupermarketSystem\bin\Debug\EntityFramework.dll
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\SupermarketSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\SupermarketSystem\bin\Debug\EntityFramework.xml
+C:\Users\Samzhong\Desktop\C#\Exercise\Exercise\SupermarketSystem\bin\Debug\EntityFramework.SqlServer.xml
